@@ -1,4 +1,5 @@
 #Python Operators
+
 #In Python programming, Operators in general are used to perform operations on values and variables.
 #These are standard symbols used for logical and arithmetic operations.
 #OPERATORS: These are the special symbols. Eg- + , * , /, **, % .
